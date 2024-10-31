@@ -1,10 +1,10 @@
 #SITE CONFIGURATION
 
-title: Andrew Stiefel
-description: Composer
-repository: "andrewstiefel/music-portfolio"
+title: Ray Lenhart
+description: Musicologist
+repository: "raylenhart/music-portfolio"
 baseurl: 
-url: "http://andrewstiefel.com"
+url: "https://raylenhart.github.io/music-portfolio/"
 
 google_tag_manager: GTM-P7PZFVP
 
