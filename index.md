@@ -1,8 +1,8 @@
 ---
 layout: default
 headline: About
-description: Andrew Stiefel is a composer, performer, and writer whose work explores the intersections between written and recorded sound.
-summary: Andrew Stiefel is a composer living in Seattle, Washington. His music explores the intersections between written and recorded sound.
+description: Ray Lenhart is a musicologist studying hip-hop, neurodiveristy, and enchantment. 
+summary: Ray Lenhart is a musicologist at Florida State Univeristy studying neurodiveristy, hip-hop, and enchantment. 
 featured-img: andrew-stiefel-viola.jpg
 permalink: /
 ---
